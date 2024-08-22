@@ -1,5 +1,5 @@
 # Projeto-Estufa-IoT
-Este projeto é uma demonstração prática das habilidades e conhecimentos adquiridos na Formação Specialist da [DIO](https://www.dio.me), aplicados à automação e controle em um ambiente agrícola.
+Este projeto é uma demonstração prática das habilidades e conhecimentos adquiridos na Formação IoT Specialist da [DIO](https://www.dio.me), aplicados à automação e controle em um ambiente agrícola.
 O objetivo é desenvolver um sistema automatizado para o controle de uma estufa de hortaliças utilizando o simulador [Tinkercad](https://WWW.tinkercad.com/). 
 
 ## Funcionalidade do Sistema
