@@ -47,7 +47,12 @@ Quando a temperatura ultrapassa 50°C, o LED vermelho e a buzina são acionados 
 * Conecte o terminal negativo ao GND.
 ## Estrutura Física do Projeto  
 ![_Projeto Estufa IoT](https://github.com/user-attachments/assets/c061c737-d2c5-40ec-be90-73f393701e1a)
+## Aprendizado
+Este projeto proporcionou uma experiência valiosa, além aprofundar o conhecimento em programação Arduino e desenvolvimento de sistemas de automação. As habilidades adquiridas durante o desenvolvimento deste projeto foram muito significantes para mim.
+## Próximos Passos
+Para aprimorar ainda mais o projeto, considerações futuras podem incluir a adição de um sistema de controle remoto, integração com uma plataforma IoT para monitoramento e controle via internet, e a implementação de um sistema de dados históricos para análise e otimização das condições da estufa.
 
 ## Referências
 
 - [Documentação do Arduino](https://www.arduino.cc/en/Guide)
+- [Acessar TinkerCad](https://www.tinkercad.com/things/giDVe3TidDH-projeto-estufa-iot/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits)
